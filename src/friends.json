@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Mabel",
+    "image": "https://vignette.wikia.nocookie.net/gravityfalls/images/0/0a/Mabel_Pines_appearance.png/revision/latest?cb=20150915080739",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Dipper",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/e/e3/Profile_-_Dipper_Pines.png/revision/latest?cb=20190318192148",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Soos",
+    "image": "https://miro.medium.com/max/900/0*HJ8LNSYVVHnspFTg.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Wendy",
+    "image": "https://www.stickpng.com/assets/images/5b45cc12c051e602a568cd28.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Grunkle Stan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ac/Gravity_Falls_-_Stan_Pines.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Gompers",
+    "image": "https://sketchok.com/images/articles/01-cartoons/005-gravity-falls/05/11.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Waddles",
+    "image": "https://i.pinimg.com/originals/41/a3/e6/41a3e67f56594957a9b3e6503d9bd6a8.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Stanford Pines",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/0/01/Profile_-_Ford_Pines.jpg/revision/latest?cb=20190318195501",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Schmebulock",
+    "image": "https://i.pinimg.com/originals/b9/04/0f/b9040f9a51b8be7aaa363bdd5f728bbe.jpg",
+    "clicked": false
+  }
+]
